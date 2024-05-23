@@ -24,8 +24,10 @@ To get started with WeatherTDDAuth, follow these steps:
 - [Supabase](https://supabase.io/)
 - [Dio](https://pub.dev/packages/dio) (for HTTP requests)
 - [Bloc](https://pub.dev/packages/bloc) (for state management)
-- [Equatable](https://pub.dev/packages/equatable) (for value equality)
+- [fpdart](https://pub.dev/packages/equatable) (for granularity)
 - [Geolocator](https://pub.dev/packages/geolocator) (for location services)
+- [Weather]
+- [GeoEncoder]
 
 ## Usage
 
